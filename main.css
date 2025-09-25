@@ -1,0 +1,20 @@
+body {
+    background-image: url("z6967385811194_2e31c1b7a15971a80c72f1dbb43c29a1.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px red;
+}
+
+audio {
+    display: block;
+    margin: 30px auto;
+}
